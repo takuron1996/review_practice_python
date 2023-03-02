@@ -53,7 +53,7 @@ addopts = "-ra -p no:cacheprovider --strict-config --strict-markers"
 [tool.coverage.run]
 branch = true
 source = ["template/"]
-omit = ["template/example.py"]
+omit = ["*/__init__.py"]
 
 [tool.coverage.report]
 # Regexes for lines to exclude from consideration
