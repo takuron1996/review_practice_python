@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf_8 -*-
-"""例題プログラム
+"""例題プログラム変える
 """
+
 
 from template.example import calc
 
